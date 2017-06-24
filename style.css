@@ -31,6 +31,14 @@ img {
 	margin-bottom: 0;
 }
 
+.subheader {
+	text-align: center;
+	font-size: 1.45em;
+	font-weight: bold;
+	text-shadow: 2px 2px 0px #333;
+	margin-bottom: 0;
+}
+
 .divider {
 	height:2px;
 	background:#353535;
@@ -58,6 +66,16 @@ img {
 	text-align: left;
 	text-shadow: 0px 1px 0px #333;
 	text-decoration: none;
+}
+
+.button3 {
+	font-family: sans-serif;
+	color:#d8d8d8;
+	font-size: 1em;
+	padding: 3%;
+	text-shadow: 0px 1px 0px #333;
+	text-decoration: none;
+	
 }
 
 .main{
